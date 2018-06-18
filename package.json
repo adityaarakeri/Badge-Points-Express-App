@@ -1,0 +1,20 @@
+{
+  "name": "badge-points-app",
+  "version": "1.0.0",
+  "description": "App to get badge points from treehouse",
+  "main": "app.js",
+  "scripts": {
+    "auth": "node auth.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "ejs": "^2.6.1",
+    "express": "^4.16.3",
+    "nodemon": "^1.17.5",
+    "dotenv": "^6.0.0",
+    "prompt": "^1.0.0"
+  }
+}
